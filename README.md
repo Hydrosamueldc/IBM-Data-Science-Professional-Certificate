@@ -34,10 +34,10 @@ It serves as a personal learning archive and portfolio showcasing my growth in d
 This repo is a reflection of my practical work during the program.  
 Each folder contains:
 - 📝 Jupyter notebooks (.ipynb)  
-- 📊 Assignments and peer-graded projects  
+- 📊 Assignments and projects  
 - 🧭 Notes and key concepts learned  
 
-## 🌟 Goals
+##  Goals
 - Build a strong foundation in Data Science concepts and tools  
 - Create a clean portfolio to showcase skills to future employers  
 - Document progress for personal growth and reflection  
