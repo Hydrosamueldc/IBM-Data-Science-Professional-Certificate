@@ -61,7 +61,7 @@ At this stage in the course, I now understand the following key concepts:
 
 ---
 
-### 🗄️ **Python & Databases**
+### **Python & Databases**
 - Python can connect to databases using libraries and APIs within Jupyter Notebooks  
 - Two major methods:
   1. **SQL APIs** – build SQL statements as strings and send them to the DBMS  
@@ -85,4 +85,3 @@ At this stage in the course, I now understand the following key concepts:
  **End of Lesson — I Now Understand: Data import, structure, data types, basic statistics, and database connections in Python.**  
 
 
----
