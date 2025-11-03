@@ -7,7 +7,9 @@ It maps laptop prices to various hardware specifications and attributes.
 This dataset is used throughout the course to demonstrate different data analysis concepts — from importing and cleaning data to visualization and modeling.
 
 **Dataset Source:**  
-Filtered and modified version of the original dataset on Kaggle (licensed under Database Contents License v1.0).
+Filtered and modified version of the original dataset on Kaggle (licensed under Database Contents License v1.0)
+Laptop Price Prediction using specifications![https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download]
+
 
 ### **Attributes in the Dataset**
 
