@@ -8,7 +8,10 @@ This dataset is used throughout the course to demonstrate different data analysi
 
 **Dataset Source:**  
 Filtered and modified version of the original dataset on Kaggle (licensed under Database Contents License v1.0)
-Laptop Price Prediction using specifications![https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download]
+
+Laptop Price Prediction using specifications
+You can download the original dataset from Kaggle  [Laptop Price Prediction Dataset](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download).
+
 
 
 ### **Attributes in the Dataset**
