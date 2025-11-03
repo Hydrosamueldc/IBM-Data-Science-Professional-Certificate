@@ -1,6 +1,6 @@
 ## Dataset Overview – Automobile Data Set
 
-This notebook uses the **Automobile Dataset** from the **UCI Machine Learning Repository**.  
+This notebook uses the **Automobile Dataset** from the **UCI(University of California, Irvine) Machine Learning Repository**.  
 It contains various specifications of automobiles along with their price and insurance risk rating.  
 By working with this dataset, I explore **data acquisition, cleaning, and analysis techniques**.
 
