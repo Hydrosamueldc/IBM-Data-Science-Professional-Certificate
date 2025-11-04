@@ -2,7 +2,9 @@
 
 | Step | Task | Description (Why it's done) | Code Example |
 |------|------|-----------------------------|--------------|
-| **1** | Import Libraries | Required to work with data and handle missing values | ```import pandas as pd import numpy as np``` |
+| **1** | Import Libraries | Required to work with data and handle missing values | ```import pandas as pd```| 
+                                                                                    ```import numpy as np``` |
+|       |                  |                                                      |
 | **2** | Load CSV File (Local) | Load dataset from your computer | ```python\n df = pd.read_csv("file_path.csv")``` |
 | **3** | Load CSV File (URL) | Load dataset directly from the web (works outside JupyterLite) | ```python\ndf = pd.read_csv("https://example.com/data.csv")``` |
 | **4** | Load File Without Header | When the file has no column names | ```python\ndf = pd.read_csv("file.csv", header=None)``` |
