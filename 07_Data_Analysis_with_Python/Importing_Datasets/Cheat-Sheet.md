@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python – Cheat Sheet (Importing Datasets)
+#  Data Analysis with Python – Cheat Sheet (Importing Datasets)
 
 | Step | Task | Description (Why it's done) | Code Example |
 |------|------|-----------------------------|--------------|
@@ -25,7 +25,7 @@
 
 ---
 
-### ✅ **💡 Notes to Remember**
+###  ** Notes to Remember**
 | Behaviour | Explanation |
 |-----------|-------------|
 | `header=None` | Use this when the CSV file doesn’t contain column names. |
@@ -36,9 +36,3 @@
 
 ---
 
-Would you like me to:
-✅ Add data cleaning cheat sheet too?  
-✅ Convert this to `.md` or `.pdf` file?  
-✅ Add visuals or sample dataset output?
-
-I’m ready. Just say the word.
