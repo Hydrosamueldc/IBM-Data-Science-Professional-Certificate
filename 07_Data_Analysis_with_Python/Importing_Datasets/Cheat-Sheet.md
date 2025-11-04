@@ -12,7 +12,7 @@
 | **7** | Check Shape | Returns number of rows and columns | ```df.shape``` |
 | **8** | Display Column Names | Useful when headers are missing or incorrect | ```df.columns``` |
 | **9** | Assign Column Headers | Manually add headers if dataset doesn’t have any | ```headers = ["col1", "col2", "col3", ...]```|
-                                                                                                        ```df.columns = headers``` |
+|        |                        |                                                   |                     ```df.columns = headers``` |
 | **10** | Replace "?" with NaN | Converts placeholder missing values to standard NaN | ```df.replace("?", np.nan, inplace=True)``` |
 | **11** | Check Data Types | Identifies int, float, or object (string) types | ```df.dtypes``` |
 | **12** | Check Dataset Summary | Shows non-null counts and types (useful for NaNs) | ```df.info()``` |
