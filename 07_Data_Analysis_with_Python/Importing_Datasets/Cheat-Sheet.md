@@ -25,7 +25,7 @@
 
 ---
 
-###  ** Notes to Remember**
+###  **Notes to Remember**
 | Behaviour | Explanation |
 |-----------|-------------|
 | `header=None` | Use this when the CSV file doesn’t contain column names. |
