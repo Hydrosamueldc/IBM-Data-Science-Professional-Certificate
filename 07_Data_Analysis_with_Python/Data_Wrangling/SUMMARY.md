@@ -131,12 +131,12 @@ Each category becomes a new column with binary values (**0** or **1**) indicatin
 ```python
 # One-Hot Encoding using pandas
 df = pd.get_dummies(df, columns=["fuel-type"])
-```
+
 # Example result:
 # fuel-type_diesel | fuel-type_gas
 #         1        |        0
 #         0        |        1
-
+```
 ---
 ##  KEY TAKEAWAYS
 
