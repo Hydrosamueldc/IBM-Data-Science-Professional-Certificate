@@ -8,7 +8,7 @@ Two real-world datasets were used throughout these modules:
 ###  **Datasets Used**
 1. **Automobile Dataset**  
    Detailed overview here:  
-    [`Dataset Overview – Automobile Data`](07_Data_Analysis_with_Python/Importing_Datasets/lab1/lab1.md)
+    [`Dataset Overview – Automobile Data`](./Importing_Datasets/lab1/lab1.md)
 
 2. **Laptop Pricing Dataset**  
    Detailed overview here:  
