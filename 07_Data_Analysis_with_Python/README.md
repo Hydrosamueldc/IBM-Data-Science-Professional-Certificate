@@ -1,4 +1,4 @@
-# 📊 Data Analysis With Python — Repository Overview
+#  Data Analysis With Python 
 
 Welcome to my **Data Analysis with Python** learning repository.  
 This project documents my end-to-end learning journey across multiple modules, following the structure of a complete data analysis pipeline — from importing datasets to developing and evaluating predictive models.
@@ -12,7 +12,7 @@ Two real-world datasets were used throughout these modules:
 
 2. **Laptop Pricing Dataset**  
    Detailed overview here:  
-    [`Dataset Overview – Laptop Pricing Data`](./datasets/laptop_pricing_dataset_overview.md)
+    [`Dataset Overview – Laptop Pricing Data`](./Importing_Datasets/lab2/lab2.md)
 
 ---
 
