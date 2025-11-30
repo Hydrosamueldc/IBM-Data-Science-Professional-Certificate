@@ -30,11 +30,11 @@ This module introduces:
 - Understanding dataset structure before cleaning  
 
 **More details:**  
- [`Importing Datasets Summary`](./Importing_Datasets/README.md)
+ [`Importing Datasets`](./Importing_Datasets)
 
 ---
 
-## 📁 **Data_Wrangling**
+##  **Data_Wrangling**
 Focuses on preparing raw data for analysis.  
 Key skills practiced:
 - Identifying and handling missing values (`isnull`, `replace`, `dropna`, `fillna`)
@@ -44,7 +44,7 @@ Key skills practiced:
 - One-hot encoding / indicator variables  
 
 **More details:**  
- [`Data Wrangling Summary`](./Data_Wrangling/SUMMARY.md)
+ [`Data Wrangling`](./Data_Wrangling)
 
 ---
 
@@ -58,7 +58,7 @@ Topics covered:
 - Pearson correlation analysis  
 
 **More details:**  
- [`Exploratory Data Analysis Summary`](./03_Exploratory_Data_Analysis/SUMMARY.md)
+ [`Exploratory Data Analysis`](./03_Exploratory_Data_Analysis)
 
 ---
 
@@ -72,7 +72,7 @@ What I learned:
 - Using models to estimate fair value (e.g., car pricing)  
 
 **More details:**  
-[`Model Development Summary`](./04_Model_Development/SUMMARY.md)
+[`Model Development`](./04_Model_Development)
 
 ---
 
@@ -87,7 +87,7 @@ Skills practiced:
 - Ridge regression & model tuning  
 
 **More details:**  
- `Model Evaluation Details` *(link to your updated path)*
+ [`Model Evaluation`](./05_Model_Evaluation_and_Refinement)
 
 ---
 
