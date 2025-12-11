@@ -43,6 +43,6 @@ Each folder contains:
 - Document progress for personal growth and reflection  
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com) *(replace with your link)*  
-- [GitHub](https://github.com) *(replace with your link)*
+- [LinkedIn](https://www.linkedin.com/in/adegboyega-samuel-1a302b203/)
+- [GitHub](https://github.com)
 
